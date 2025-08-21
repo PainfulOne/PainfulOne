@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PainfulOne
-- 👀 I’m interested in ...learning coding
-- 🌱 I’m currently learning ...HTML
+- 👋 Hi, I’m EdwardsJ
+- 👀 I’m interested in learning coding
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...eddujose16@gmail.com
+- 📫 How to reach me edwardstogo@gmail.com
 
 <!---
 PainfulOne/PainfulOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
